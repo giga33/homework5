@@ -102,4 +102,51 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 letter-spacing: 0.9px;
+padding-bottom: 50px;
+}
+.sec-img1, .sec-img2, .sec-img3, .sec-img4, .sec-div1, .sec-div2, .sec-div3, .sec-div4{
+	display: inline-block;
+
+}
+
+.section1{
+	width: 1312px;
+	height: 1182px;
+	margin-left: 100px;
+	margin-top: 70px;
+	display: inline-block;
+}
+.sec-div1,.sec-div2,.sec-div3,.sec-div4{
+	position: relative;
+	
+}
+.sec-img1,.sec-img2,.sec-img3,.sec-img4{
+	position: absolute;
+	color: #fff;
+	left: 10px;
+	bottom: 10px;
+}
+.england, .greece, .georgia, .poland{
+	color: #FFF;
+	font-family: Inter;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	letter-spacing: 0.6px;
+
+}
+.dsc-more{
+	width: 259px;
+	height:66px;
+	background: #FF5403;; 
+	text-align: center;
+	padding: 13px 50px;
+	color: #FFF;
+	font-size: 18px;
+	font-font-family: Inter;
+	style: normal;
+	font-weight: 600;
+	line-height: normal;
+	margin: 50px 714px 271px 500px;
 }
