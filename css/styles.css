@@ -222,3 +222,76 @@ font-weight: 300;
 line-height: 170%;
 letter-spacing: 0.36px;
 }
+.footer{
+	width: 100%;
+	height: 484px;
+	background: #19224D;
+}
+.footer-logo{
+	padding-left: 100px;
+	padding-top: 108px;
+	display: inline-block;
+}
+.footer-dsc{
+	display: inline-block;
+	color: #FFF;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+letter-spacing: 1.2px;
+margin: 108px 200px;
+}
+
+.footer-dsc-text{
+		color: #FFF;
+
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 0.9px;
+}
+.karimun, .yogyakarta{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.footer-contact{
+	display: inline-block;
+	color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+letter-spacing: 1.2px;
+}
+.contact-us{
+	padding-bottom: 30px;
+
+}
+.contact-text{
+	color: #FFF;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 0.36px;
+}
+.contact-mail{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.social-media{
+	color: #FF5403;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+letter-spacing: 0.9px;
+}
