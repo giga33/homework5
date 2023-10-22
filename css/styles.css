@@ -1,0 +1,105 @@
+body{
+	font-family: 'Inter', sans-serif;
+}
+header{
+	width: 100%;
+	height: 100px;
+	padding: 22px 100px;
+	position: sticky;
+	top: 0;
+	left: 0;
+	background: #fff;
+	z-index: 3;
+
+
+}
+.nav, li{
+	display: inline-block;
+	vertical-align: middle;
+}
+.logo{
+	display: inline;
+	vertical-align: middle;
+}
+.nav{
+	margin: 0 195px;
+
+}
+.book-btn{
+	padding: 13px 50px;
+	background-color: #FF5403;;
+}
+.main-bann{
+	width: 100%;
+	height: 722px;
+}
+
+main{
+	position: relative;
+}
+.bann-text{
+	position: absolute;
+	left: 0;
+	top: 0;
+	text-align: center;
+	width: 100%;
+	margin-top: 250px;
+}
+.about, .places{
+	padding: 0 50px;
+
+}
+.travel-buddy{
+	color: #FFF;
+	font-family: Inter;
+	font-size: 96px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	letter-spacing: 6.72px;
+}
+.p-buddy{
+	color: #FFF;
+	font-family: Inter;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	letter-spacing: 0.6px;
+}
+.dsc-now{
+	width: 259px;
+	height:66px;
+	background: #FF5403;; 
+	text-align: center;
+	padding: 13px 50px;
+	color: #FFF;
+	font-size: 18px;
+	font-font-family: Inter;
+	style: normal;
+	font-weight: 600;
+	line-height: normal;
+	margin: 50px 714px 271px 759px;
+}
+.top-place{
+	color: #041562;
+text-align: center;
+font-family: Inter;
+font-size: 36px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+letter-spacing: 1.8px;
+margin-top: 282px;
+margin-bottom: 20px;
+}
+.top-place-text{
+	color: #626262;
+text-align: center;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 0.9px;
+}
