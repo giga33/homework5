@@ -150,3 +150,75 @@ padding-bottom: 50px;
 	line-height: normal;
 	margin: 50px 714px 271px 500px;
 }
+.top-hotel{
+	color: #041562;
+text-align: center;
+font-family: Inter;
+font-size: 36px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+letter-spacing: 1.8px;
+margin-top: 150px;
+margin-bottom: 20px;
+}
+.top-hotel-text{
+	color: #626262;
+text-align: center;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 0.9px;
+margin-bottom: 200px;
+}
+.hotel-1, .hotel-2, .hotel-3{
+	width: 404px;
+	height: 549px;
+	display: inline-block;
+}
+.hotel-2{
+	margin-left: 50px;
+	margin-right: 50px;
+}
+.hotel-1-text{
+	color: #000;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 1.2px;
+}
+.star{
+	margin-top: 10px;
+}
+.hotel-text2{
+	color: #626262;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 300;
+line-height: 170%; /* 30.6px */
+letter-spacing: 0.36px;
+
+}
+.hotel-text3{
+	color: #020202;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 300;
+line-height: 170%; /* 30.6px */
+letter-spacing: 0.36px;
+}
+span{
+	color: #DA1212;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 300;
+line-height: 170%;
+letter-spacing: 0.36px;
+}
